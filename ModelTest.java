@@ -116,4 +116,4 @@ public class ModelTest {
         assertEquals(4, path.size());
         assertEquals("same", path.get(path.size() - 1));
     }
-} 
+}
