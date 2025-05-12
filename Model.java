@@ -38,7 +38,8 @@ public class Model extends Observable {
         }
         return words;
     }
-    
+    // This is a comment for testing Git commit
+
     public void initializeGame() {
         if (useRandomWords) {
             Random rand = new Random();
